@@ -5,45 +5,45 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#01", "05 - Algorithms & Problem-Solving Level 2.vcxproj", "{C01E927F-D5CA-47D4-A06D-BF0F051AAFB1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#02", "..\Problem#02\Problem#02.vcxproj", "{6D7CD552-D1F9-4B6F-BAF7-081428EF73F5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#02", "Problem#02\Problem#02.vcxproj", "{6D7CD552-D1F9-4B6F-BAF7-081428EF73F5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#03", "..\Problem#03\Problem#03.vcxproj", "{0ED18EEA-AF98-4EC3-8558-FA174DA8DD16}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#03", "Problem#03\Problem#03.vcxproj", "{0ED18EEA-AF98-4EC3-8558-FA174DA8DD16}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#04", "..\Problem#04\Problem#04.vcxproj", "{187D760F-679B-4278-9DE6-EAED1EC60A46}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#04", "Problem#04\Problem#04.vcxproj", "{187D760F-679B-4278-9DE6-EAED1EC60A46}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#05", "..\Problem#05\Problem#05.vcxproj", "{7C3515BB-575B-41CC-B1D3-64F34FCECAB2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#05", "Problem#05\Problem#05.vcxproj", "{7C3515BB-575B-41CC-B1D3-64F34FCECAB2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#06", "..\Problem#06\Problem#06.vcxproj", "{5A95D3A9-204C-4704-B792-592C141CB6BD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#06", "Problem#06\Problem#06.vcxproj", "{5A95D3A9-204C-4704-B792-592C141CB6BD}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#07", "..\Problem#07\Problem#07.vcxproj", "{F1840BB9-76E0-4B20-AD7B-7B40CAD0BD48}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#07", "Problem#07\Problem#07.vcxproj", "{F1840BB9-76E0-4B20-AD7B-7B40CAD0BD48}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#08", "..\Problem#08\Problem#08.vcxproj", "{25654EDF-2CAE-47C7-9D5E-7CE8615776DF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#08", "Problem#08\Problem#08.vcxproj", "{25654EDF-2CAE-47C7-9D5E-7CE8615776DF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#09", "..\Problem#09\Problem#09.vcxproj", "{3D77F613-054D-430F-97CB-C0F6F6C1D82E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#09", "Problem#09\Problem#09.vcxproj", "{3D77F613-054D-430F-97CB-C0F6F6C1D82E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#10", "..\Problem#10\Problem#10.vcxproj", "{AB4B57AF-C13A-4B70-903B-949456672919}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#10", "Problem#10\Problem#10.vcxproj", "{AB4B57AF-C13A-4B70-903B-949456672919}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#11", "..\Problem#11\Problem#11.vcxproj", "{D5DE7B0C-0712-420A-AABA-2B759FE1F9E9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#11", "Problem#11\Problem#11.vcxproj", "{D5DE7B0C-0712-420A-AABA-2B759FE1F9E9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#12", "..\Problem#12\Problem#12.vcxproj", "{EF4566E6-95E0-4402-ACA1-08044B4620E6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#12", "Problem#12\Problem#12.vcxproj", "{EF4566E6-95E0-4402-ACA1-08044B4620E6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#13", "..\Problem#13\Problem#13.vcxproj", "{C3D9B52B-D658-4252-AE96-12450653DAF6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#13", "Problem#13\Problem#13.vcxproj", "{C3D9B52B-D658-4252-AE96-12450653DAF6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#14", "..\Problem#14\Problem#14.vcxproj", "{B33875C8-5F9A-45F0-8C34-3087A0AD71FB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#14", "Problem#14\Problem#14.vcxproj", "{B33875C8-5F9A-45F0-8C34-3087A0AD71FB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#15", "..\Problem#15\Problem#15.vcxproj", "{7ECBB156-E1AC-44C5-897E-013D721D0881}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#15", "Problem#15\Problem#15.vcxproj", "{7ECBB156-E1AC-44C5-897E-013D721D0881}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#16", "..\Problem#16\Problem#16.vcxproj", "{67E75318-8E4E-42B0-B6C4-4345DB4841C2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#16", "Problem#16\Problem#16.vcxproj", "{67E75318-8E4E-42B0-B6C4-4345DB4841C2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#17", "..\Problem#17\Problem#17.vcxproj", "{AA47D325-CF52-49E2-A642-8D5515D41B27}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#17", "Problem#17\Problem#17.vcxproj", "{AA47D325-CF52-49E2-A642-8D5515D41B27}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#18", "..\Problem#18\Problem#18.vcxproj", "{A37A2478-95BD-4D2A-A266-2C1F98363C3E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#18", "Problem#18\Problem#18.vcxproj", "{A37A2478-95BD-4D2A-A266-2C1F98363C3E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#19", "..\Problem#19\Problem#19.vcxproj", "{B6E0D89C-13F2-4E92-8FC5-C19917888ADE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#19", "Problem#19\Problem#19.vcxproj", "{B6E0D89C-13F2-4E92-8FC5-C19917888ADE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#20", "..\Problem#20\Problem#20.vcxproj", "{61CA8327-CDEE-4800-9170-B00C55795355}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#20", "Problem#20\Problem#20.vcxproj", "{61CA8327-CDEE-4800-9170-B00C55795355}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#21", "..\Problem#21\Problem#21.vcxproj", "{A6A2DFF4-67AA-4AEF-B586-235F28E147EB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem#21", "Problem#21\Problem#21.vcxproj", "{A6A2DFF4-67AA-4AEF-B586-235F28E147EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
