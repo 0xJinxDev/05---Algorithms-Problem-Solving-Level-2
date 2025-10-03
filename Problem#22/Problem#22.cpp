@@ -1,20 +1,55 @@
-// Problem#22.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//Write a program to read N elements and store them in array then print all array elements and ask for a number to check,
+// then print how many number a certain element repeated in that array
 
 #include <iostream>
+#include <string>
 
-int main()
-{
-    std::cout << "Hello World!\n";
+using namespace std;
+
+int ReadPositiveNumber(string Message) {
+
+	int number = 0;
+	do {
+		cout << Message << endl;
+		cin >> number;
+	} while (number <= 0);
+	return number;
 }
 
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
+void ReadArray(int arr[100], int& arrLength) {
 
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
+	arrLength = ReadPositiveNumber("Please enter the array length:");
+
+	for (int i = 0;i < arrLength;i++) {
+		cout << "Please enter the element [ " << i + 1 << " ]:" << endl;
+		cin >> arr[i];
+	}
+	cout << endl;
+}
+
+void PrintArray(int arr[100], int arrLength) {
+
+	for (int i = 0; i < arrLength;i++) {
+		cout << arr[i] << " ";
+	}
+	cout << endl;
+}
+
+int TimesRepeated(int arr[100], int arrlength, int check) {
+
+	int counter = 0;
+
+	for (int i = 0;i < arrlength;i++) {
+		if (arr[i] == check)
+			counter++;
+	}
+	return counter;
+}
+int main() {
+	int arr[100], arrlength;
+
+	ReadArray(arr, arrlength);
+	PrintArray(arr, arrlength);
+	cout<< "The digit repeated " << TimesRepeated(arr, arrlength, ReadPositiveNumber("Please enter the number you want to check")) <<" times.";
+	return 0;
+}
