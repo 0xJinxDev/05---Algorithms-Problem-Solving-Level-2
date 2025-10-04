@@ -33,6 +33,7 @@ void PrintPrimeNumbers(int number) {
 		}
 	}
 }
+
 int main() {
 
 	
