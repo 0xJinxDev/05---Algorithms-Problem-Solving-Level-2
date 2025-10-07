@@ -21,14 +21,20 @@ int ReadPositiveNumber(string Message) {
 	return number;
 }
 
+void AddArrayElement(int arr[100], int& arrLength, int number) {
+
+	arr[arrLength] = number;
+	arrLength++;
+
+}
+
 void ReadArray(int arr[100], int& Length) {
 	int flag = 1;
 	Length = 0;
 
 	while (flag == 1 && Length < 100) {
-		arr[Length] = ReadPositiveNumber("Please enter the element: ");
-		Length++;
 
+		AddArrayElement(arr, Length, ReadPositiveNumber("Please Enter a positive number:"));
 		cout << "Do you want to add another element ? [1] yes, [0] no: ";
 		do {
 			cin >> flag;
@@ -48,6 +54,8 @@ void PrintArray(int arr[100], int Length) {
 	}
 	cout << endl;
 }
+
+
 int main() {
 	int arr[100], arrLength;
 
